@@ -3,7 +3,7 @@ body {
     margin: 0;
     height: ;
     width: ;
-    background: #fcfeff;
+    background: #f7fcfcd8;
 }
 
 form{
@@ -72,12 +72,12 @@ h1{
 
 
 .btn {
-    border: none; /* Remove borders */
-    color: black; /* Add a text color */
-    padding: 14px 28px; /* Add some padding */
-    cursor: pointer; /* Add a pointer cursor on mouse-over */
+    border: none; 
+    color: black; 
+    padding: 14px 28px;
+    cursor: pointer; 
   }
-  .info {background-color: rgb(226, 231, 236);} /* Blue */
+  .info {background-color: rgb(226, 231, 236);}
   .info:hover {background: #8fabc2;}
     
 
